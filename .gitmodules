@@ -4,3 +4,6 @@
 [submodule "Q1-LITESVM-Test"]
 	path = Q1-LITESVM-Test
 	url = https://github.com/Ansh-699/Q1-LITESVM-Test
+[submodule "Q1_MagicBlock"]
+	path = Q1_MagicBlock
+	url = https://github.com/Ansh-699/Q1_MagicBlock
