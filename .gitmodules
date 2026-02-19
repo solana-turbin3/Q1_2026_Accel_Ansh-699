@@ -7,3 +7,15 @@
 [submodule "Q1_MagicBlock"]
 	path = Q1_MagicBlock
 	url = https://github.com/Ansh-699/Q1_MagicBlock
+[submodule "gptoracle-tuktuk"]
+	path = gptoracle-tuktuk
+	url = https://github.com/Ansh-699/gptoracle-tuktuk.git
+[submodule "ruststorage-challenge"]
+	path = ruststorage-challenge
+	url = https://github.com/Ansh-699/ruststorage-challenge.git
+[submodule "tuktuk-escrow"]
+	path = tuktuk-escrow
+	url = https://github.com/Ansh-699/tuktuk-escrow.git
+[submodule "Q1_Accel_Week-1"]
+	path = Q1_Accel_Week-1
+	url = https://github.com/Ansh-699/Q1_Accel_Week-1.git
