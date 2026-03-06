@@ -25,3 +25,6 @@
 [submodule "fundraiser_pinocchio"]
 	path = fundraiser_pinocchio
 	url = https://github.com/Ansh-699/fundraiser_pinocchio.git
+[submodule "breakout1-kv-store"]
+	path = breakout1-kv-store
+	url = https://github.com/solana-turbin3/breakout1-kv-store.git
