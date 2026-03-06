@@ -19,3 +19,9 @@
 [submodule "Q1_Accel_Week-1"]
 	path = Q1_Accel_Week-1
 	url = https://github.com/Ansh-699/Q1_Accel_Week-1.git
+[submodule "Q1_Accel_pinocchio_escrow"]
+	path = Q1_Accel_pinocchio_escrow
+	url = https://github.com/Ansh-699/Q1_Accel_pinocchio_escrow.git
+[submodule "fundraiser_pinocchio"]
+	path = fundraiser_pinocchio
+	url = https://github.com/Ansh-699/fundraiser_pinocchio.git
