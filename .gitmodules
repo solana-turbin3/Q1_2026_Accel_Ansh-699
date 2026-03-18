@@ -28,3 +28,6 @@
 [submodule "breakout1-kv-store"]
 	path = breakout1-kv-store
 	url = https://github.com/solana-turbin3/breakout1-kv-store.git
+[submodule "metaplex_core"]
+	path = metaplex_core
+	url = https://github.com/Ansh-699/metaplex_core
